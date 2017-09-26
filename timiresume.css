@@ -23,7 +23,7 @@ img{
 }
 
 body{
-	background-color: none;
+	background-color: white;
 	background-image: url("wallpaper.png");
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -43,4 +43,8 @@ body{
 .headers{
 	color: #4402CF;
 	margin-left: 20px;
+}
+
+#degree{
+	margin-bottom: 15px;
 }
