@@ -32,10 +32,12 @@ body{
 .resumedates{
 	margin-top: 5px;
 	margin-bottom: 5px;
+	font-style: italic;
 }
 
 .roles{
 	margin-top: 25px;
+	font-weight: bold;
 }
 
 .headers{
