@@ -28,3 +28,12 @@ body{
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+
+.resumedates{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.roles{
+	margin-top: 25px;
+}
